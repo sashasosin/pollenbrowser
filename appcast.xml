@@ -2,6 +2,43 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Version 0.7.96</title>
+      <sparkle:version>0.7.96</sparkle:version>
+      <sparkle:shortVersionString>0.7.96</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 03 Oct 2026 07:14:57 +0000</pubDate>
+      <description><![CDATA[
+<html>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+    </style>
+    <body>
+        <h1>Pollen Release Notes</h1>
+        <p>Better than yesterday!</p>
+        <h2>0.7.96</h2>
+
+        <ul>
+            <li>Initial alpha release.</li>
+            <li>Thank you for trying Pollen.</li>
+            <li>Send any feedback to sashavsosin@gmail.com.</li>
+        </ul>
+        <!-- <ul>
+        <li>New feature: Improved search</li>
+        <li>Bug fix: Fixed crashing issue</li>
+        <li>Performance: Faster loading times</li>
+    </ul> -->
+    </body>
+</html>
+      ]]></description>
+      <enclosure
+        url="https://github.com/sashasosin/pollenbrowser/releases/download/v0.7.96/Pollen-0.7.96.zip"
+        sparkle:edSignature="fvqLfso7gl/xtaBT96Mb0RSyZ05outQrG6n45hXZFhBvRNGSlXZX/QPEJSnA2Qs+sfH2xnCj/zd4bYlqPeA6AQ=="
+        length="23488066"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.7.95</title>
       <sparkle:version>0.7.95</sparkle:version>
       <sparkle:shortVersionString>0.7.95</sparkle:shortVersionString>
