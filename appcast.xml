@@ -2,6 +2,40 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Version 0.7.104</title>
+      <sparkle:version>0.7.104</sparkle:version>
+      <sparkle:shortVersionString>0.7.104</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 02:40:13 +0000</pubDate>
+      <description><![CDATA[
+<html>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+    </style>
+    <body>
+        <h1>Pollen Release Notes</h1>
+        <p>Better than yesterday!</p>
+
+        <h2>0.7.96</h2>
+
+        <p>
+            - Initial alpha release.<br>
+            - Thank you for trying Pollen.<br>
+            - Send any feedback to sashavsosin@gmail.com.
+        </p>
+       
+    </body>
+</html>
+      ]]></description>
+      <enclosure
+        url="https://github.com/sashasosin/pollenbrowser/releases/download/v0.7.104/Pollen-0.7.104.zip"
+        sparkle:edSignature="my/VSJi9NM3eekDEdLcimde0b1Ag8I6j5KVXZkyZuri01jb8WAXNYkHOXPKQczXBk5Du1SP4uY9hH1GJpQbVAw=="
+        length="24924779"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.7.96</title>
       <sparkle:version>0.7.96</sparkle:version>
       <sparkle:shortVersionString>0.7.96</sparkle:shortVersionString>
