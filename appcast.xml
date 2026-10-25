@@ -2,6 +2,76 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>Version 0.7.167</title>
+      <sparkle:version>0.7.167</sparkle:version>
+      <sparkle:shortVersionString>0.7.167</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 25 Oct 2026 02:40:58 +0000</pubDate>
+      <description><![CDATA[
+<h1>Pollen Release Notes</h1>
+
+<h2>0.7.167</h2>
+
+<ul>
+<li>Added: Screenshot pane action. Cmd+Shift+S to copy a screenshot of an active pane to the clipboard.</li>
+<li>Added: Toggle toolbar visibility. CMD+Shift+\</li>
+<li>Fixed: local HTML files now load in panes from file path.</li>
+<li>Fixed: PDF viewer download button now works.</li>
+<li>Fixed: App launch now reopens the last canvas you were in.</li>
+<li>Changed: Disabled resizing of individual objects when part of a multi-selection</li>
+<li>Changed: Renamed &quot;Save as&quot; to &quot;Duplicate Canvas&quot;</li>
+</ul>
+
+<h2>0.7.154</h2>
+
+<ul>
+<li>Added: Focus mode. Expand a pane to fit the app window. Double click pane border or press CMD+SHIFT+Enter to toggle.</li>
+<li>Added: CMD+Drag an image to drop it into a website, another app, or your desktop.</li>
+<li>Added: Pane Shadows.</li>
+<li>Added: Hand cursor when right click dragging canvas.</li>
+<li>Added: Grid snapping. Hold CMD to override.</li>
+<li>Added: Two new ways to zoom: Click and hold mouse wheel and drag to zoom in or out. OR right click and hold on canvas and drag to zoom in or out.</li>
+<li>Fixed: Icons in the pane navigation buttons getting stretched after zooming out.</li>
+<li>Fixed: Overlapping borders.</li>
+<li>Changed: Color of pane title bars on light mode.</li>
+<li>Added: FPS graph. Temporary beta feature.</li>
+</ul>
+
+<h2>0.7.118</h2>
+
+<ul>
+<li>Changed file extension to .pollen</li>
+<li>Added: Middle-click + drag to zoom in/out.</li>
+<li>Upgraded: z-order stacking and layering.</li>
+<li>Backend: worked on placement engine and transform subsystem to move stuff around.</li>
+<li>Improved Command key zoom behavior.</li>
+<li>Many other tiny tweaks, bug fixes and code scaffolding for future features.</li>
+</ul>
+
+<h2>0.7.104</h2>
+
+<ul>
+<li>Fixed: an issue where your panes would be gone on app restart.</li>
+<li>Added: SVG support.</li>
+<li>Added: Right click actions to suspend/wake panes.</li>
+<li>Update: Tweaks to onboarding flow.</li>
+</ul>
+
+<h2>0.7.96</h2>
+
+<ul>
+<li>Initial alpha release.</li>
+<li>Thank you for trying Pollen.</li>
+<li>Send any feedback to sashavsosin@gmail.com.</li>
+</ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/sashasosin/pollenbrowser/releases/download/v0.7.167/Pollen-0.7.167.zip"
+        sparkle:edSignature="Bidi45BG4pCOcQuB1RrM47Am211AtKt48Hbx6r0Q+A7dv2rIWk1FBytK0a575aj2XwtnJq0uIThtyGuL3RmwBw=="
+        length="26241705"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.7.155</title>
       <sparkle:version>0.7.155</sparkle:version>
       <sparkle:shortVersionString>0.7.155</sparkle:shortVersionString>
